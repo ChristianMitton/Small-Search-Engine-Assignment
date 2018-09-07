@@ -1,0 +1,7 @@
+a.txt
+text1.txt
+text2.txt
+W.txt
+b.txt
+c.txt
+d.txt
